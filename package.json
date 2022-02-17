@@ -1,0 +1,11 @@
+{
+  "name": "google-speech-to-text-streaming-client",
+  "version": "1.0.0",
+  "main": "client.js",
+  "license": "MIT",
+  "dependencies": {
+    "@google-cloud/speech": "^4.10.0",
+    "commander": "^9.0.0",
+    "memory-streams": "^0.1.3"
+  }
+}
